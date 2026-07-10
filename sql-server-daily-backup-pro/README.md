@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="SQL Daily Backup Logo">
+</p>
+
+<h1 align="center">
+SQL Server Daily Backup
+</h1>
+
+<p align="center">
+Automatic daily backup solution for Microsoft SQL Server and SQL Server Express.
+</p>
+
 # SQL Server Daily Backup
 
 A lightweight, Windows-friendly backup toolkit for Microsoft SQL Server and SQL Server Express.
