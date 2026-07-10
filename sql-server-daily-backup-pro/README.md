@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="180" alt="SQL Daily Backup Logo">
+  <img src="assets/logosql.png" width="180" alt="SQL Daily Backup Logo">
 </p>
 
 <h1 align="center">
