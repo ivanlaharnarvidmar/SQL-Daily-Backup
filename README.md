@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="SQL Server Daily Backup">
+</p>
+
+<h1 align="center">
+SQL Server Daily Backup
+</h1>
+
+<p align="center">
+Automatic daily backup solution for Microsoft SQL Server and SQL Server Express.
+</p>
+
+<p align="center">
+
+![License](https://img.shields.io/github/license/ivanlaharnarvidmar/SQL-Daily-Backup)
+![Release](https://img.shields.io/github/v/release/ivanlaharnarvidmar/SQL-Daily-Backup)
+![Stars](https://img.shields.io/github/stars/ivanlaharnarvidmar/SQL-Daily-Backup)
+![Forks](https://img.shields.io/github/forks/ivanlaharnarvidmar/SQL-Daily-Backup)
+![Issues](https://img.shields.io/github/issues/ivanlaharnarvidmar/SQL-Daily-Backup)
+![Last Commit](https://img.shields.io/github/last-commit/ivanlaharnarvidmar/SQL-Daily-Backup)
+
+</p>
+
 # SQL Server Daily Backup
 
 A lightweight, Windows-friendly backup toolkit for Microsoft SQL Server and SQL Server Express.
